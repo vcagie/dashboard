@@ -23,6 +23,14 @@
         {
             "uri":"https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
             "desc": "IMAGE 6"
+        },
+        {
+            "uri":"https://i.kinja-img.com/gawker-media/image/upload/s--PnSCSSFQ--/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/z7jcryloxjedsztssw39.jpg",
+            "desc": "IMAGE 7"
+        },
+        {
+            "uri":"http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif",
+            "desc": "IMAGE 8"
         }
     ]
 }
