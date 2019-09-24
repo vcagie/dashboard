@@ -1,4 +1,74 @@
 {
+    "introduction" : {
+        "title": "Bangganya Menjadi Insan Astra!",
+        "desc": "Insan Astra adalah talenta terbaik bangsa, yang terus berkolaborasi menjadi yang bermanfaat untuk bangsa dan negara!" 
+    },
+    "benefit" :{
+        "title": "Keuntungan Bergabung",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
+        "slider" : [
+            {
+                "title": "Lingkungan Kerja Kekeluargaan",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                "image": [
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
+                    },
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg"
+                    },
+                    {
+                        "uri": "http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif"   
+                    }
+                ]
+            },
+            {
+                "title": "Pola Kerja Yang Kreatif dan Dinamis",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                "image": [
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
+                    },
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg"
+                    },
+                    {
+                        "uri": "http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif"   
+                    }
+                ]
+            },
+            {
+                "title": "Kesempatan Berkembang",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                "image": [
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
+                    },
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg"
+                    },
+                    {
+                        "uri": "http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif"   
+                    }
+                ]
+            },
+            {
+                "title": "Pengembangan Karir",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                "image": [
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
+                    },
+                    {
+                        "uri": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg"
+                    },
+                    {
+                        "uri": "http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif"   
+                    }
+                ]
+            }
+        ]
+    }
     "internal" : {
         "title": "Aktivitas Internal Perusahaan",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -72,6 +142,44 @@
             {
               "uri": "http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif",
               "desc": "IMAGE 8"
+            }
+        ]
+    },
+    "agenda" : {
+        "title": "Agenda",
+        "slider" : [
+            {
+                "title": "Astra 1st 2017",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "image": "uri": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"   
+            },
+            {
+                "title": "Astra 1st 2018",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "image": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg"
+            },
+            {
+                "title": "Astra 1st 2019",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "image": "uri": "http://www.sarkarinaukrisearch.in/wp-content/uploads/2018/12/tetty-bear-image-24.gif"   
+            },
+        ]
+    },
+    "berita": {
+        "title": "Berita & Artikel",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
+        "image": [
+            {
+                "type": "Berita",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
+            },
+            {
+                "type": "Artikel",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
+            },
+            {
+                "type": "Berita",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
             }
         ]
     }
